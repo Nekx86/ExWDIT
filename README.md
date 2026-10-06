@@ -1,6 +1,6 @@
 <div align="center">
 
-![ExWDIT – Executable and Digital Investigation Toolkit for PE malware analysis and digital forensics](assets/ExWDIT_Banner.svg)
+![ExWDIT – Executable and Digital Investigation Toolkit for PE malware analysis and digital forensics](ExWDITBanner.jpg)
 
 # ExWDIT
 

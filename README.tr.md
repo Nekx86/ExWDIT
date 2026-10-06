@@ -1,6 +1,6 @@
 <div align="center">
 
-![ExWDIT – PE analizi ve dijital adli bilişim için çalıştırılabilir dosya inceleme araç seti](assets/ExWDIT_Banner.svg)
+![ExWDIT – PE analizi ve dijital adli bilişim için çalıştırılabilir dosya inceleme araç seti](ExWDITBanner.jpg)
 
 # ExWDIT
 
