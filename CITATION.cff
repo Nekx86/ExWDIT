@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use ExWDIT in research or documentation, please cite it as below."
+title: "ExWDIT: Executable / Digital Investigation and Behavioral Analysis Toolkit"
+type: software
+abstract: >-
+  ExWDIT is an open-source C++20 desktop forensic analysis suite (Dear ImGui)
+  that combines static PE analysis, runtime behavior monitoring, evidence-based
+  risk scoring, and investigation reporting for malware analysis, digital
+  forensics, and anti-cheat investigation.
+authors:
+  - name: "ExWDIT Contributors"
+repository-code: "https://github.com/Nekx86/ExWDIT"
+license: MIT
+keywords:
+  - digital forensics
+  - malware analysis
+  - PE analysis
+  - behavioral analysis
+  - reverse engineering
+  - anti-cheat
+  - YARA
+  - C++20
+  - Dear ImGui
+date-released: "2026-10-06"

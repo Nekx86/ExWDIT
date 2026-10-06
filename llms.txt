@@ -1,0 +1,25 @@
+# ExWDIT
+
+> ExWDIT (Executable / Digital Investigation and Behavioral Analysis Toolkit) is an open-source C++20 desktop forensic analysis suite built with Dear ImGui. It combines static PE (Portable Executable) analysis, runtime behavior monitoring, evidence-based risk scoring, and JSON/HTML investigation reporting for security researchers, malware analysts, reverse engineers, anti-cheat teams, and digital forensics investigators. Status: early development. Platform: Windows x64 first. License: MIT.
+
+ExWDIT answers one question: what is this executable, what does it contain, what does it load, what does it access, what does it communicate with, and what does it do while running? It reports indicators and evidence rather than definitive malware verdicts, treats the original sample as read-only, and is intended for defensive use only.
+
+## Docs
+
+- [README (English)](README.md): Overview, features, architecture, roadmap, FAQ
+- [README (Türkçe)](README.tr.md): Türkçe tanıtım, özellikler, yol haritası, SSS
+- [Security policy](SECURITY.md): Responsible use and vulnerability reporting
+- [Contributing](CONTRIBUTING.md): How to contribute
+
+## Key facts
+
+- Name: ExWDIT
+- Type: digital forensics and executable behavior analysis toolkit
+- Language: C++20; UI: Dear ImGui (docking)
+- Capabilities: PE32/PE32+ parsing, imports/exports, strings, entropy, hashes, Authenticode, process/module/file/registry/network/memory monitoring, timeline, behavior graph, YARA (optional), risk engine, JSON/HTML reports
+- Not: an antivirus, a malware scanner, or an anti-cheat bypass tool
+
+## Optional
+
+- [License](LICENSE): MIT
+- [Citation](CITATION.cff): Citation metadata
